@@ -42,7 +42,7 @@ a {
   font-weight: bold;
 }
 h1 {
-  margin: 0;
+  margin-bottom: 100px;
   font-size: 30px;
   box-sizing: border-box;
   letter-spacing: -1px;
