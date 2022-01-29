@@ -13,6 +13,7 @@ body {
   color: black;
 }
 .box {
+  position: relative; bottom: 100px;
   max-width: 400px;
   text-align: center;
 }
