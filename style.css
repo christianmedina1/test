@@ -44,7 +44,6 @@ a {
 h1 {
   margin: 0;
   font-size: 30px;
-  box-sizing: border-box;
   letter-spacing: -1px;
 }
 h2 a {
