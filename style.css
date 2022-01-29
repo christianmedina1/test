@@ -12,11 +12,10 @@ body {
   font-size: 24px;
   color: black;
 }
-/*.box {
+.box {
   max-width: 400px;
   text-align: center;
 }
-*/
 .box > *, .minter > *{
   display: block;
   width: 100% !important;
