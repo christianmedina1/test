@@ -17,7 +17,7 @@ body {
 }
 #bigger-text {
   position: relative;
-  bottom: 100px;
+  bottom: 200px;
 }
 .box {
   max-width: 400px;
