@@ -11,10 +11,13 @@ body {
   font-size: 24px;
   color: black;
 }
-
+#positioned-image {
+  position: relative;
+  bottom: 100px;
+}
 #bigger-text {
   position: relative;
-  bottom: 500px;
+  bottom: 200px;
 }
 .box {
   max-width: 400px;
