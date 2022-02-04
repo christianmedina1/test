@@ -1,6 +1,6 @@
 body {
   font-family:'Nunito Sans', sans-serif;
-  font-size: 12px;
+  font-size: 16px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -19,11 +19,50 @@ body {
   position: relative;
   bottom: 150px;
 }
+
+#positioned-image {
+  position: relative;
+  bottom: 100px;
+  left: 150px;
+ }
+ #bigger-text {
+   position: relative;
+   bottom: 150px;
+ }
+ #positioned-text {
+  position: relative;
+  bottom: 50px;
+ }
 .box {
   max-width: 400px;
   position: relative;
   top: 100px;
   text-align: center;
+}
+
+.box2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.box3 {
+  display: flex;
+  justify-content: left;
+  width: 400px;
+}
+
+.box4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1000px;
+}
+
+#shiftpleft {
+  position: relative;
+  margin-left: 50px;
 }
 .box > *, .minter > *{
   display: block;
