@@ -31,10 +31,9 @@ body {
   bottom: 50px;
  }
 .box {
-  max-width: 400px;
+  max-width: 1000px;
   position: relative;
   top: 100px;
-  text-align: center;
 }
 
 .box2 {
