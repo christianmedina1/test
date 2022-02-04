@@ -39,6 +39,9 @@ body {
 #box3 {
   max-width: 400px;
   position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   top: 100px;
 }
 .box2 {
