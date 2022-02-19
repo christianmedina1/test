@@ -39,9 +39,6 @@ body {
 .navbar-links li:hover {
   background-color: white;
 }
- .positioned-image {
-   position: relative;
-  }
   .bigger-text {
     display: flex;
     justify-content: flex-end;
