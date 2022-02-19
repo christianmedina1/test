@@ -43,9 +43,8 @@ body {
    position: relative;
   }
   .bigger-text {
-    position: relative;
-    bottom: 300px;
-    left: 600px;
+    display: flex;
+    justify-content: flex-end;
     }
  #small-text {
     padding: 10px;
