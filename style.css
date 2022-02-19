@@ -140,12 +140,12 @@ body {
   }
   .box {
     min-width: 100%;
-    text-align: center;
   }
    
   .box3 {
     display: flex;
     justify-content: center;
+    text-align: center;
     width: 1000px;
   }
 .box > *, .minter > *{
