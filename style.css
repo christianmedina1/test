@@ -142,7 +142,7 @@ body {
     min-width: 100%;
   }
    
-  .box3 {
+  #box3 {
     display: flex;
     justify-content: center;
     text-align: center;
