@@ -40,9 +40,11 @@ body {
   background-color: white;
 }
   .bigger-text {
+    font-family:'Nunito Sans', sans-serif;
+    font-size: 44px;
     display: flex;
-    justify-content: flex-end;
-    align-items: flex-end;
+    align-items: center;
+    margin-right: 50px;
     }
  #small-text {
     padding: 10px;
