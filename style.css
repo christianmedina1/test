@@ -45,6 +45,7 @@ body {
   .bigger-text {
     display: flex;
     justify-content: flex-end;
+    align-items: flex-end;
     }
  #small-text {
     padding: 10px;
