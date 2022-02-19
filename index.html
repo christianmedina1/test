@@ -49,25 +49,25 @@
   <div class="bright-box">
     <h2 id="Mint"> Build new opportunities for athletes to shine on the brightest stage
    </h2>
-  </div>
-  <div id="box3">
-  <img src="{{image}}">
-  <h2>{{title}}</h2>
-  <table class='invites'>
-  <tr>
-    <th>mint price</th>
-    <th>mint limit</th>
-    <th>Invite</th>
-  </tr>
-  {{#each items}}
+   <div id="box3">
+    <img src="{{image}}">
+    <h2>{{title}}</h2>
+    <table class='invites'>
     <tr>
-      <td>{{eth}} ETH</td>
-      <td>{{limit}}</td>
-      <td><a class='btn' href="mint.html#address={{address}}&key={{key}}">Go</td</a></td>
+      <th>mint price</th>
+      <th>mint limit</th>
+      <th>Invite</th>
     </tr>
-  {{/each}}
-  </table>
-</div>
+    {{#each items}}
+      <tr>
+        <td>{{eth}} ETH</td>
+        <td>{{limit}}</td>
+        <td><a class='btn' href="mint.html#address={{address}}&key={{key}}">Go</td</a></td>
+      </tr>
+    {{/each}}
+    </table>
+  </div>
+  </div>
 </script>
 <script>
 const f0 = new F0()

@@ -67,7 +67,7 @@ body {
   }
   .photo-box {
     position: relative;
-    margin-right: 300px;
+    margin-right: 100px;
     width: 375px;
     height: 250px;
     border-radius: 3%;
@@ -116,13 +116,11 @@ body {
     width: 50%;
   }
 .membership-right {
-    position: relative;
-    margin-right: 300px;
       display: flex;
   flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 550px;
+    width: 650px;
     height: 350px;
     border-radius: 3%;
   background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(213,213,213,1) 100%);
@@ -143,7 +141,7 @@ body {
     
   }
   .box {
-    max-width: 1000px;
+    min-width: 100%;
     
   }
    
@@ -192,7 +190,7 @@ h1 {
 
 h2 {
   font-family: 'Nunito Sans', sans-serif;
-      font-size: 44px;
+      font-size: 34px;
 }
 h2 a {
   color: white;
