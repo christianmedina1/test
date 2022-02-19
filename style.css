@@ -4,7 +4,7 @@ body {
     background-color: #ECEBE9;
   }
   
-.navbar {
+#navbar {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -41,7 +41,7 @@ body {
 }
   .bigger-text {
     font-family:'Nunito Sans', sans-serif;
-    font-size: 44px;
+    font-size: 36px;
     display: flex;
     align-items: center;
     margin-right: 50px;
