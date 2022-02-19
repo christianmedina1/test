@@ -43,8 +43,9 @@ body {
    position: relative;
   }
   .bigger-text {
-    position: absolute;
-    margin-left: 300px;
+    position: relative;
+    bottom: 300px;
+    top: 600px;
     }
  #small-text {
     padding: 10px;
