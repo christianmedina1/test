@@ -119,7 +119,7 @@ body {
     width: 50%;
   }
 .membership-right {
-    margin-right: 100px;
+    margin-right: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
