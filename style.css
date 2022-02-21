@@ -119,12 +119,11 @@ body {
     width: 50%;
   }
 .membership-right {
-    margin-right: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 350px;
+    width: 375px;
     height: 350px;
     border-radius: 3%;
   background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(213,213,213,1) 100%);
