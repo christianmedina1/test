@@ -5,6 +5,7 @@ body {
   }
   
 #navbar {
+  margin-right: 100px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -16,7 +17,6 @@ body {
 .brand-title {
   font-family:'Nunito Sans', sans-serif;
   font-size: 1.5rem;
-  left: 150px;
 }
   
 .navbar-links ul {
