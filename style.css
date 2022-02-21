@@ -154,7 +154,6 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    width: 1000px;
   }
 .box > *, .minter > *{
   display: block;
