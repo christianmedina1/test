@@ -5,6 +5,7 @@ body {
   }
   
 #navbar {
+  margin-left: 150px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
