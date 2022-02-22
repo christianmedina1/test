@@ -213,6 +213,10 @@ h2 {
 h2 a {
   color: white;
 }
+h3 {
+  font-family: 'Nunito Sans', sans-serif;
+      font-size: 24px;
+}
 .invite {
   overflow-wrap: break-word;
   word-wrap: break-word;
