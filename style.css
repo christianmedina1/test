@@ -155,7 +155,7 @@ body {
     text-align: center;
   }
 
-.faq {
+#faq {
   display: flex;
   flex-direction: column;
   justify-content: center;
