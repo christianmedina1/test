@@ -154,6 +154,19 @@ body {
     align-items: center;
     text-align: center;
   }
+
+.faq {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.faq-comment {
+width: 750px;
+text-align: left;
+}
 .box > *, .minter > *{
   display: block;
   width: 100% !important;
